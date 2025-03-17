@@ -6,6 +6,5 @@
         <strong>Hobby:</strong><a href="https://pt.uefa.com/">Futebol</a> <br> 
         <strong>Curiosidade:</strong><a href="https://brasilescola.uol.com.br/curiosidades/15-curiosidades-sobre-frio.htm">Urinamos mais no frio</a> <br> 
    
-    </details>
-    </body></html>
+
     
